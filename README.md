@@ -1,5 +1,5 @@
-### Predictive Analytics Project - Classification Models in Python
-To predict will a customer churn
+### Predict Customer Churn - Classification Models in Python
+
 
 #### Source of dataset
 Kaggle
