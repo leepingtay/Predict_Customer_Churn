@@ -18,4 +18,5 @@ Jupyter Notebook
 #### Authors
 Lee Ping Tay
 
-
+#### Acknowledgments
+Andrew Long
